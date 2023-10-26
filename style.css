@@ -65,12 +65,12 @@ input{
     line-height: 28px;
 }
 
-input:hover{border: 1px solid #1878F3;
+input:hover{border: 1px solid green;
 }
 
 
 
-.entrar{background-color: #1877f2;
+.entrar{background-color: green;
     border: none;
     border-radius: 6px;
     font-size: 20px;
